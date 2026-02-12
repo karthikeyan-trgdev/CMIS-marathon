@@ -53,7 +53,7 @@ header {
 #hero {
   margin-top: 80px; /* Offset for fixed header */
   min-height: 90vh;
-  background-image: url(./images/bg-image-3.png);
+  background-image: url(./images/bg-image-3.jpg);
   background-size: cover;
   background-position: top center;
   display: flex;
